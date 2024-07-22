@@ -1,0 +1,2 @@
+//TASK 01 - NODE.JS CHECKPOINT
+console.log("HELLO WORLD");
